@@ -19,7 +19,7 @@ Description de celui-ci avec infos sur l'évolution du projet
 
 ```bash
 git add .
-git commit -m "Titre" 
+git commit -m "Titre du commit" 
 git push origin main 
 #ou
 git push -u origin main #upstream, permet de mémoriser la destination origin main
