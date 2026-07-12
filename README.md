@@ -19,7 +19,7 @@ Description de celui-ci avec infos sur l'évolution du projet
 
 ```bash
 git add .
-git commit -m "Un Com" 
+git commit -m "Titre du commit" 
 git push origin main 
 #ou
 git push -u origin main #upstream, permet de mémoriser la destination origin main
@@ -33,4 +33,3 @@ git checkout -b NOM_BRANCHE
 
 
 Pour les bonnes pratiques, on va integrer la notion de revu de code. Pour cela, on va créer une branche, faire des modif, les envoyer sur le dépot distant, puis créer une pull request pour demander une revue de code.
-
