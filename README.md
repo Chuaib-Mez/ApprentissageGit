@@ -32,4 +32,5 @@ git checkout -b NOM_BRANCHE
 ``` 
 
 
+Pour les bonnes pratiques, on va integrer la notion de revu de code. Pour cela, on va créer une branche, faire des modif, les envoyer sur le dépot distant, puis créer une pull request pour demander une revue de code.
 
